@@ -1,2 +1,2 @@
 # cry1
-cryto
+Try some cryto trading codes
